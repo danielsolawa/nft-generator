@@ -9,6 +9,7 @@ __pycache__/
 assets/
 metadata/
 output/
+.idea/
 
 # Distribution / packaging
 .Python
