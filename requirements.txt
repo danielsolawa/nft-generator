@@ -1,0 +1,6 @@
+python-decouple
+beautifulsoup4
+selenium
+Pillow
+numpy
+pandas
